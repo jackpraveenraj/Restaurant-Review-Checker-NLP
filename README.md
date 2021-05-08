@@ -1,6 +1,6 @@
 # Restaurant-Review-Checker-NLP
 
-# Aim:
+# Project Description:
 A fully functioning Python Program to check whether a restaurant review was positive or negative using Natural Language Processing.
 
 # Algorithm:
